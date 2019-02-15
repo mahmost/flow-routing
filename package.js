@@ -9,7 +9,7 @@
 Package.describe({
   name: 'mahmost:useraccounts-vue-router',
   summary: 'UserAccounts package providing routes configuration capability via vue-router.',
-  version: '1.14.2',
+  version: '0.1.0',
   git: '',
 });
 
