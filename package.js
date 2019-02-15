@@ -10,7 +10,7 @@ Package.describe({
   name: 'mahmost:useraccounts-vue-router',
   summary: 'UserAccounts package providing routes configuration capability via vue-router.',
   version: '0.1.0',
-  git: '',
+  git: 'https://github.com/mahmost/meteor-useraccounts-vue-router',
 });
 
 Npm.depends({
@@ -23,10 +23,10 @@ Package.onUse(function(api) {
   api.use([
     'check',
     'ecmascript',
-    'vuejs:blaze-integration',
+    'vuejs:blaze-integration@0.2.0',
     //'kadira:flow-router',
     'underscore',
-    'useraccounts:core',
+    'useraccounts:core@1.14.2',
     'modules'
   ], ['client', 'server']);
 
