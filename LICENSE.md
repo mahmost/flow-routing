@@ -1,6 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2014 [@splendido](https://github.com/splendido)
+Original work Copyright (c) 2014 [@splendido](https://github.com/splendido)
+
+Modified work Copyright (c) 2019 [@mahmost](https://github.com/mahmost)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
